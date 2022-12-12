@@ -1,5 +1,5 @@
 ## SETTINGS ------------------------------------------------------------------
-ARG TIMEZONE=America/New_York
+ARG TIMEZONE=UTC
 ARG UBUNTU_VERSION=20.04
 
 
